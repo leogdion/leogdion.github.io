@@ -24,5 +24,5 @@ tags:
 comments: []
 ---
 <iframe width="625" height="352" src="//www.youtube.com/embed/TbNymweHW4E" frameborder="0" allowfullscreen></iframe>
-<p>Does Math really exist?&nbsp;Mike Rugnetta from <a href="http:&#47;&#47;www.youtube.com&#47;user&#47;pbsideachannel" target="_blank">PBS Idea Channel<&#47;a>&nbsp;discusses whether Math really exists or simply a human creation.</p>
-<p><a href="http:&#47;&#47;www.youtube.com&#47;watch?v=TbNymweHW4E" target="_blank">[youtube]<&#47;a></p>
+<p>Does Math really exist?&nbsp;Mike Rugnetta from <a href="http:&#47;&#47;www.youtube.com&#47;user&#47;pbsideachannel" target="_blank">PBS Idea Channel</a>&nbsp;discusses whether Math really exists or simply a human creation.</p>
+<p><a href="http:&#47;&#47;www.youtube.com&#47;watch?v=TbNymweHW4E" target="_blank">[youtube]</a></p>

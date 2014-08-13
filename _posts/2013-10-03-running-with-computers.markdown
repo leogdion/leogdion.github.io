@@ -25,5 +25,5 @@ tags:
 - vcg
 comments: []
 ---
-<p><a href="http:&#47;&#47;www.vintagecomputing.com&#47;wp-content&#47;images&#47;retroscan&#47;otrona_attache_small.jpg"><img class="aligncenter" alt="" src="http:&#47;&#47;www.vintagecomputing.com&#47;wp-content&#47;images&#47;retroscan&#47;otrona_attache_small.jpg" width="400" height="554" &#47;><&#47;a></p>
-<p>Classic portable computers... so portable. It reminds me of the <a href="http:&#47;&#47;www.hrwiki.org&#47;wiki&#47;Lappy_486" target="_blank">Lappy 486<&#47;a>. <a href="http:&#47;&#47;www.vintagecomputing.com&#47;index.php&#47;archives&#47;988&#47;retro-scan-of-the-week-running-with-computers" target="_blank">Vintage Computer and Gaming discusses<&#47;a> whether you have ever had to run with a computer?</p>
+<p><a href="http:&#47;&#47;www.vintagecomputing.com&#47;wp-content&#47;images&#47;retroscan&#47;otrona_attache_small.jpg"><img class="aligncenter" alt="" src="http:&#47;&#47;www.vintagecomputing.com&#47;wp-content&#47;images&#47;retroscan&#47;otrona_attache_small.jpg" width="400" height="554" &#47;></a></p>
+<p>Classic portable computers... so portable. It reminds me of the <a href="http:&#47;&#47;www.hrwiki.org&#47;wiki&#47;Lappy_486" target="_blank">Lappy 486</a>. <a href="http:&#47;&#47;www.vintagecomputing.com&#47;index.php&#47;archives&#47;988&#47;retro-scan-of-the-week-running-with-computers" target="_blank">Vintage Computer and Gaming discusses</a> whether you have ever had to run with a computer?</p>

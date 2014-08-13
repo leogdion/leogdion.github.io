@@ -23,5 +23,5 @@ tags:
 comments: []
 ---
 <iframe width="625" height="352" src="//www.youtube.com/embed/5LiOIJ-M9F4" frameborder="0" allowfullscreen></iframe>
-<p><a href="http:&#47;&#47;www.youtube.com&#47;user&#47;pbsideachannel" target="_blank">PBS Idea Channel<&#47;a> has a <a href="http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=5LiOIJ-M9F4" target="_blank">video <&#47;a>where <a href="http:&#47;&#47;www.rheumatictangle.net&#47;" target="_blank">Mike Rugnetta<&#47;a> talks about whether Music Genres matter any more? I like some of the examples of music mashups he uses.</p>
-<p>[<a href="http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=5LiOIJ-M9F4" target="_blank">YouTube<&#47;a>]</p>
+<p><a href="http:&#47;&#47;www.youtube.com&#47;user&#47;pbsideachannel" target="_blank">PBS Idea Channel</a> has a <a href="http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=5LiOIJ-M9F4" target="_blank">video </a>where <a href="http:&#47;&#47;www.rheumatictangle.net&#47;" target="_blank">Mike Rugnetta</a> talks about whether Music Genres matter any more? I like some of the examples of music mashups he uses.</p>
+<p>[<a href="http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=5LiOIJ-M9F4" target="_blank">YouTube</a>]</p>

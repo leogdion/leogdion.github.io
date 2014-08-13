@@ -12,7 +12,7 @@ author_login: leogdion
 author_email: me@leogdion.name
 author_url: http://leogdion.name
 excerpt: "Check out the <a href=\"http:&#47;&#47;lotrproject.com&#47;\" target=\"_blank\">LOTR
-  Project<&#47;a>&nbsp;by&nbsp;Emil Johansson.\r\n\r\n"
+  Project</a>&nbsp;by&nbsp;Emil Johansson.\r\n\r\n"
 wordpress_id: 292
 wordpress_url: http://leogdion.name/?p=292
 date: '2013-03-22 12:41:04 -0400'
@@ -23,7 +23,7 @@ categories:
 tags: []
 comments: []
 ---
-<p>Check out the <a href="http:&#47;&#47;lotrproject.com&#47;" target="_blank">LOTR Project<&#47;a>&nbsp;by&nbsp;Emil Johansson.</p>
-<p><a id="more"></a><a id="more-292"></a>According to the <a href="http:&#47;&#47;lotrproject.com&#47;about&#47;" target="_blank">web site<&#47;a>...</p>
+<p>Check out the <a href="http:&#47;&#47;lotrproject.com&#47;" target="_blank">LOTR Project</a>&nbsp;by&nbsp;Emil Johansson.</p>
+<p><a id="more"></a><a id="more-292"></a>According to the <a href="http:&#47;&#47;lotrproject.com&#47;about&#47;" target="_blank">web site</a>...</p>
 <blockquote><p>Lord of the Rings Project, commonly shortened LotrProject, is a creative web project dedicated to the works of J.R.R. Tolkien. It is perhaps most known for the extensive and ever updating genealogy, the historical timeline of Middle-Earth and the statistics of the population of Middle-Earth.<&#47;blockquote><br />
-<a href="http:&#47;&#47;lotrproject.com&#47;" target="_blank">http:&#47;&#47;lotrproject.com&#47;<&#47;a></p>
+<a href="http:&#47;&#47;lotrproject.com&#47;" target="_blank">http:&#47;&#47;lotrproject.com&#47;</a></p>
