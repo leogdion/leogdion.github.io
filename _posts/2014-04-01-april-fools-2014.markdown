@@ -20,6 +20,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>https:&#47;&#47;www.youtube.com&#47;watch?v=4YMD6xELI_k</p>
-<p><a href="http:&#47;&#47;lifehacker.com&#47;your-2014-april-fools-day-prank-spoiler-1555932434" target="_blank">Lifehacker<&#47;a>&nbsp;has a great list of the year's April Fool's items on the web. Check it out:</p>
-<p><a href="http:&#47;&#47;lifehacker.com&#47;your-2014-april-fools-day-prank-spoiler-1555932434" target="_blank">[<span class="GINGER_SOFTWARE_mark" id="17cbc875-f3ea-4608-996b-add1671e006e">lifehacker<&#47;span>]<&#47;a></p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/4YMD6xELI_k" frameborder="0" allowfullscreen></iframe>
+<p><a href="http:&#47;&#47;lifehacker.com&#47;your-2014-april-fools-day-prank-spoiler-1555932434" target="_blank">Lifehacker</a>&nbsp;has a great list of the year's April Fool's items on the web. Check it out:</p>
+<p><a href="http:&#47;&#47;lifehacker.com&#47;your-2014-april-fools-day-prank-spoiler-1555932434" target="_blank">[<span class="GINGER_SOFTWARE_mark" id="17cbc875-f3ea-4608-996b-add1671e006e">lifehacker<&#47;span>]</a></p>

@@ -23,6 +23,6 @@ tags:
 - numberphile
 comments: []
 ---
-<p>http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=PCu_BNNI5x4</p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/PCu_BNNI5x4" frameborder="0" allowfullscreen></iframe>
 <p>Ever heard of Grandi's Series? Neither did I. Dr.Grime from <a href="http:&#47;&#47;www.youtube.com&#47;numberphile" target="_blank">Numberphile<&#47;a> makes one plus one sound more complex and interesting then you thought it could be.</p>
 <p><a href="http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=PCu_BNNI5x4" target="_blank">[youtube]<&#47;a></p>

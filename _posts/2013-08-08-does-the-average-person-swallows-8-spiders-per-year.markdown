@@ -22,7 +22,7 @@ tags:
 - cgpgrey
 comments: []
 ---
-<p>http:&#47;&#47;www.youtube.com&#47;watch?v=NVmnLaTXylc</p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/NVmnLaTXylc" frameborder="0" allowfullscreen></iframe>
 <p>I've heard people say that the average person swallows 8 spiders per year. Well there's actually no proof of it. <a href="http:&#47;&#47;www.youtube.com&#47;user&#47;CGPGrey" target="_blank">CGPGrey<&#47;a> shows how this "myth" is a great illustration of why the internet may not make a great source of information sometimes.</p>
 <p>PS: Here is a <a href="http:&#47;&#47;www.youtube.com&#47;watch?annotation_id=annotation_593216&amp;feature=iv&amp;src_vid=NVmnLaTXylc&amp;v=SCzXZfNIu3A" target="_blank">link to the 10 misconceptions video<&#47;a> he is referencing.</p>
 <p><a href="http:&#47;&#47;www.youtube.com&#47;watch?v=NVmnLaTXylc" target="_blank">[youtube]<&#47;a></p>

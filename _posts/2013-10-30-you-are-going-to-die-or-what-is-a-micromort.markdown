@@ -22,6 +22,6 @@ tags:
 - mentalfloss
 comments: []
 ---
-<p>http:&#47;&#47;www.youtube.com&#47;watch?v=VLmBJ4_5eG4</p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/VLmBJ4_5eG4" frameborder="0" allowfullscreen></iframe>
 <p>John Green from <a href="http:&#47;&#47;www.youtube.com&#47;user&#47;MentalFlossVideo" target="_blank">Mental Floss<&#47;a> discusses this measurement and how certain activities can result in your death... eventually.</p>
 <p><a href="http:&#47;&#47;www.youtube.com&#47;watch?v=VLmBJ4_5eG4" target="_blank">[youtube]<&#47;a></p>

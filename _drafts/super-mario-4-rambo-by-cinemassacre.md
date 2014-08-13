@@ -21,4 +21,4 @@ tags:
 - fun
 comments: []
 ---
-<p>http:&#47;&#47;www.youtube.com&#47;watch?v=QYsz3MdzR0c</p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/QYsz3MdzR0c" frameborder="0" allowfullscreen></iframe>

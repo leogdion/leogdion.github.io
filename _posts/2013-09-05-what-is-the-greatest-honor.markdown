@@ -22,6 +22,6 @@ tags:
 - vsauce
 comments: []
 ---
-<p>http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=P85Fj8m6v84</p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/P85Fj8m6v84" frameborder="0" allowfullscreen></iframe>
 <p>In this video from <a href="http:&#47;&#47;www.youtube.com&#47;user&#47;Vsauce" target="_blank">Vsauce<&#47;a>,&nbsp;Michael Stevens discusses what honor means and what is the greatest honor.</p>
 <p><a href="http:&#47;&#47;www.youtube.com&#47;watch?feature=player_detailpage&amp;v=P85Fj8m6v84" target="_blank">[youtube]<&#47;a></p>

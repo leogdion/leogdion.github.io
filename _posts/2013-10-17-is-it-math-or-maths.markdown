@@ -23,5 +23,5 @@ tags:
 - numberphile
 comments: []
 ---
-<p>http:&#47;&#47;www.youtube.com&#47;watch?v=SbZCECvoaTA</p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/SbZCECvoaTA" frameborder="0" allowfullscreen></iframe>
 <p>One of the great debates in Mathematics is whether it is Maths or Math.&nbsp;<a href="http:&#47;&#47;www.blogger.com&#47;profile&#47;10171345732985610861">Dr. Lynne Murphy<&#47;a>, a linguist living in England discusses this highly emotional and controversial issue.</p>
