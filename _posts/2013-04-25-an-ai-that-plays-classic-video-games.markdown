@@ -24,6 +24,6 @@ tags:
 - programming
 comments: []
 ---
-<p>http:&#47;&#47;www.youtube.com&#47;watch?feature=player_embedded&amp;v=xOCurBYI_gY</p>
+<iframe width="625" height="352" src="//www.youtube.com/embed/xOCurBYI_gY" frameborder="0" allowfullscreen></iframe>
 <p>They have finally gone and done it. The robots have taken over. At least when it comes to video games. <a href="http:&#47;&#47;arstechnica.com&#47;" target="_blank">Ars Technica</a>&nbsp;has an article about a project presented at <a href="http:&#47;&#47;sigbovik.org&#47;" target="_blank">SigBovik 2013</a>&nbsp;by Tom Murphy. He's basically created a program that can play Super Mario Bros pretty successfully as well as other classic side-scrollers.</p>
 <p><a href="http:&#47;&#47;arstechnica.com&#47;gaming&#47;2013&#47;04&#47;this-ai-solves-super-mario-bros-and-other-classic-nes-games&#47;" target="_blank">[ArsTechnica]</a></p>
