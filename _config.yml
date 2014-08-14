@@ -1,7 +1,9 @@
 # Site settings
 title: Leo G Dion
 email: me@leogdion.name
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: |
+  Entrepreneur, small business, father and husband. Interests include technology, movies, games, history and faith.
+
 baseurl: ""
 url: "http://leogdion.com"
 twitter_username: leogdion
