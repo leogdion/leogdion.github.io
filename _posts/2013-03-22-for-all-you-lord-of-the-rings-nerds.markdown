@@ -25,5 +25,5 @@ comments: []
 ---
 <p>Check out the <a href="http:&#47;&#47;lotrproject.com&#47;" target="_blank">LOTR Project</a>&nbsp;by&nbsp;Emil Johansson.</p>
 <p><a id="more"></a><a id="more-292"></a>According to the <a href="http:&#47;&#47;lotrproject.com&#47;about&#47;" target="_blank">web site</a>...</p>
-<blockquote><p>Lord of the Rings Project, commonly shortened LotrProject, is a creative web project dedicated to the works of J.R.R. Tolkien. It is perhaps most known for the extensive and ever updating genealogy, the historical timeline of Middle-Earth and the statistics of the population of Middle-Earth.<&#47;blockquote><br />
+<blockquote><p>Lord of the Rings Project, commonly shortened LotrProject, is a creative web project dedicated to the works of J.R.R. Tolkien. It is perhaps most known for the extensive and ever updating genealogy, the historical timeline of Middle-Earth and the statistics of the population of Middle-Earth.</blockquote><br />
 <a href="http:&#47;&#47;lotrproject.com&#47;" target="_blank">http:&#47;&#47;lotrproject.com&#47;</a></p>
