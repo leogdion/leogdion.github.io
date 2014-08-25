@@ -30,4 +30,9 @@ comments: true
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
   {% endif %}
 
+  <div id="selector">
+    {% if page.previous %}<a class="prev" href="{{page.previous.url}}">&lt;{{page.previous.title}}</a>{% endif %}
+    {% if page.next %}<a class="next" href="{{page.next.url}}">{{page.next.title}}&gt;</a>{% endif %}
+  </div>
+
 </div>
