@@ -10,13 +10,42 @@
     <div class="page-content">
       <div class="wrap">
       {{ content }}
+      <div class="side-bar">
+      <section>
+        <header><h3>Categories</h3></header>
+        <div>
+          {% for category in site.categories %}
+    <a href="/categories/{{ category | first | slugize }}/">
+        {{ category | first }}
+    </a>
+{% endfor %}
+        </div>
+      </section>
+      <section>
+        <header><h3>Stuff</h3></header>
+        <div>
+          <p>Lorem Ipsum</p>
+        </div>
+      </section>
+      <section>
+        <header><h3>Stuff</h3></header>
+        <div>
+          <p>Lorem Ipsum</p>
+        </div>
+      </section>
+      <section>
+        <header><h3>Stuff</h3></header>
+        <div>
+          <p>Lorem Ipsum</p>
+        </div>
+      </section>
+    </div>
       </div>
+
+    
     </div>
-<!--
-    <div class="side-bar">
-      <p>test</p>
-    </div>
--->
+
+
     {% include footer.html %}
 
     </body>

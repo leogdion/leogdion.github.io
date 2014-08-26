@@ -54,7 +54,6 @@ a {
     display: table;
     clear: both;
   }
-  max-width: 800px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
@@ -608,4 +607,14 @@ a {
   .next {
     float: right;
   }
+}
+
+.page-content > .wrap > :first-child {
+  float: left;
+  width: 60%;
+}
+
+.page-content > .wrap > .sidebar {
+  float: right;
+  width: 40%;
 }
