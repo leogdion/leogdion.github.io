@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+  {{> head}}
+
+    <body>
+
+    {{> header}}
+
+    <div class="page-content">
+      <div class="wrap">
+              
+        <div class="home">
+
+          <h1>Posts</h1>
+
+          <ul class="posts">
+            {{#each (limit collections.posts this.pagination.end this.pagination.start)}}
+
+              <li>
+                <span class="post-date">{{ this.date | date: "%b %-d, %Y" }}</span>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ this.title }}</a>
+                <br/>
+                <div>
+                        {{#unless this.abstract}}
+                          {{safe excerpt}}
+                        {{else}}
+                          {{this.abstract}}
+                        {{/unless}}</div>
+              </li>
+                   
+                {{/each}}
+          </ul>
+
+          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+        </div>
+      </div>
+    </div>
+    
+
+    </body>
+</html>
